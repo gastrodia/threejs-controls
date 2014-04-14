@@ -1,11 +1,23 @@
 {
-  "name": "threejs-controls",
+  "name": "threex-controls",
   "version": "0.0.66",
-  "description": "Three.js controls",
+  "description": "fork from Three.js controls",
   "keywords": [
     "threejs",
     "controls",
     "three.js"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/gastrodia/threex-controls",
+  "authors": [
+    "ELatA <elata@foxmail.com>"
+  ],
+  "main": "controls/OrbitControls.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
